@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Amina, a **Front End Web Developer** (specializing in **React Applications**). I am also Software Engineering student at [**ALX**](https://www.alxafrica.com/) will graduate in 9-2024.
+🎓 I am Amina, a **Front End Web / Flutter Developer** (specializing in **React Applications**). I am also Software Engineering student at [**ALX**](https://www.alxafrica.com/) will graduate in 9-2024.
 
 
 ### Languages
