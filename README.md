@@ -6,14 +6,17 @@
 
 <div align="center">
   
-## :<img align="center" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> About Me
+## <img align="center" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> About Me
 
 </br>
 
+<div align="left">
 🎓 I'm a Software Engineering student at ALX, specializing in Backend Development  
 🤖 I'm also an AI and Data Science student at ESI-SBA  
 🌱 Currently diving into TypeScript and enhancing my skills in data science and backend technologies  
 💼 Check out my [Portfolio](https://aminaghandouz.vercel.app) for projects and more information
+</div>
+
 </div>
 
 <div align="center">
