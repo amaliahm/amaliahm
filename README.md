@@ -12,9 +12,12 @@
 
 <div align="left">
 🎓 I'm a Software Engineering student at ALX, specializing in Backend Development  
+<br />
 🤖 I'm also an AI and Data Science student at ESI-SBA  
+<br />
 🌱 Currently diving into TypeScript and enhancing my skills in data science and backend technologies  
-💼 Check out my [Portfolio](https://aminaghandouz.vercel.app) for projects and more information
+<br />
+💼 Check out my [portfolio](https://aminaghandouz.vercel.app) for projects and more information
 </div>
 
 </div>
