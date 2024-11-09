@@ -1,11 +1,19 @@
-# Heyy there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀 About Me
 
-🎓 I am Amina, a **Front End Web / Flutter Developer** (specializing in **React Applications**). I am also Software Engineering student at [**ALX**](https://www.alxafrica.com/) will graduate in 9-2024.
+<div align="center">
+  
+## :🚀 About Me</br>
 
+🎓 I'm a Software Engineering student at ALX, specializing in Backend Development  
+🤖 I'm also an AI and Data Science student at ESI-SBA  
+🌱 Currently diving into TypeScript and enhancing my skills in data science and backend technologies  
+💼 Check out my [Portfolio](https://aminaghandouz.vercel.app) for projects and more information
+</div>
+
+<div align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&width=435&lines=amina+ghandouz;Software+Engineering;AI+%26+Data+Science+Student++" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   
