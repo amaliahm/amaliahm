@@ -11,13 +11,21 @@
 </br>
 
 <div align="left">
-🎓 I'm a Software Engineering student at ALX, specializing in Backend Development  
+<p>
+🎓 I'm a Software Engineering student at ALX, specializing in Backend Development 
+</p> 
 <br />
+<p>
 🤖 I'm also an AI and Data Science student at ESI-SBA  
+</p>
 <br />
+<p>
 🌱 Currently diving into TypeScript and enhancing my skills in data science and backend technologies  
+</p>
 <br />
+<p>
 💼 Check out my [portfolio](https://aminaghandouz.vercel.app) for projects and more information
+</p>
 </div>
 
 </div>
