@@ -102,13 +102,12 @@
 </div>
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaliahm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://api.githubtrends.io/user/svg/amaliahm/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" height="300" alt="activity-graph graph"  />
 <img src="https://streak-stats.demolab.com?user=amaliahm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaliahm&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<img src="https://api.githubtrends.io/user/svg/amaliahm/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" height="300" alt="activity-graph graph"  />
 
 ###
-<img src="https://raw.githubusercontent.com/amaliahm/amaliahm/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
